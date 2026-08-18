@@ -10,5 +10,5 @@
 - 🧪 Foundry | Fuzzing | Invariant Testing
 - 💀 Studying exploits, postmortems & attack patterns
 - 🚀 Grinding toward serious bug bounties & security research
-- 🤝 Building with people who take Web3 security seriously
+- 🤝 Building and learning with **@itsdarktoday**
 - ⚡ Fun fact: If it can be exploited, I want to know how
