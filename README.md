@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**0xscarfac3/0xscarfac3** is a ✨ future top web3 security researcher ✨ 
+**0xscarfac3** is a ✨ future top web3 security researcher ✨ 
 
 - 👋 Yo, I'm 0xscarfac3
 - 🛡️ Web3 Security Researcher in the making
