@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**0xscarfac3/0xscarfac3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**0xscarfac3/0xscarfac3** is a ✨ future top web3 security researcher ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Yo, I'm 0xscarfac3
+- 🛡️ Web3 Security Researcher in the making
+- 🐛 Hunting bugs in smart contracts & DeFi protocols
+- 🔥 Breaking things to understand how they fail
+- 🧪 Foundry | Fuzzing | Invariant Testing
+- 💀 Studying exploits, postmortems & attack patterns
+- 🚀 Grinding toward serious bug bounties & security research
+- 🤝 Building with people who take Web3 security seriously
+- ⚡ Fun fact: If it can be exploited, I want to know how
