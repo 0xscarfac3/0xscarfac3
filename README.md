@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-**[0xscarfac3](https://github.com/0xscarfac3)** is a ✨ *Aspiring Web3 Security Researcher* ✨ 
+**[Scarface](https://github.com/0xscarfac3)** is a ✨ *Aspiring Web3 Security Researcher* ✨ 
 
-- 👋 Yo, I'm 0xscarfac3
+- 👋 Yo, I'm Scarface
 - 🛡️ Web3 Security Researcher in the making
 - 🐛 Hunting bugs in smart contracts & DeFi protocols
 - 🔥 Breaking things to understand how they fail
